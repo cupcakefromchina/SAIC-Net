@@ -1,2 +1,2 @@
 # SAIC-Net
-the source code of the SAIC-Net
+the project of paper "Saliency Aware Image Cropping with Latent Region Pair"
